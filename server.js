@@ -40,7 +40,7 @@ let root = {
 }
 
 
-var path = [];
+let path = [];
 
 function findNode(obj, target, dat) {
 
@@ -54,12 +54,7 @@ function findNode(obj, target, dat) {
    else
    {
       for (let i in obj.children) {
-         var node = obj.children[i];
-
-         // path.push(i);
-         // console.log(path);
-
-         // return findNode(node, target,i);
+         let node = obj.children[i];
 
          if(i === target){
             path.push(i);
