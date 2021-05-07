@@ -14,4 +14,4 @@ Below the path displays the contents of the current directory, or "THIS IS FILE:
 
 ### DEMO
 
-![alt-text](https://github.com/deeguyz/breadcrumb/blob/master/ezgif-2-7971c66fd419.gif)
+![alt-text](https://github.com/deeguyz/breadcrumb/blob/master/ezgif-2-7971c66fd4198.gif)
